@@ -25,3 +25,16 @@ If you are developing a production application, we recommend updating the config
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+## Screenshots
+
+### Desktop version
+![desktop-version](https://github.com/antonyusupov/daisyui-tailwind-ts-react/assets/74938284/15b91d39-3e30-4afa-954f-7251cfb4cfe3)
+
+### Tablet version
+![tablet-version](https://github.com/antonyusupov/daisyui-tailwind-ts-react/assets/74938284/4b7cd5e8-b4c1-4748-8775-8acd20ea8e97)
+
+### Mobile version
+![daisyui-designer-mobile-version](https://github.com/antonyusupov/daisyui-tailwind-ts-react/assets/74938284/bf1d4c89-77db-4b1f-b8c2-47b7cd38d021)
+
